@@ -1,0 +1,6 @@
+WA SA NT
+SA WA NT
+NT WA SA
+WA 1 2 3
+SA 1 2
+NT 2
